@@ -1,3 +1,5 @@
 # hangman
 
-An simple hangman game
+An simple vanilla javascript hangman game.
+
+Have fun
